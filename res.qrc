@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>refresh.png</file>
+        <file>history.ico</file>
+        <file>bookmark_on.png</file>
+        <file>bookmark_off.png</file>
+        <file>info.svg</file>
+    </qresource>
+</RCC>
